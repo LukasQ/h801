@@ -1,6 +1,6 @@
 # MQTT firmware for H801 LED dimmer
 
-The is an alternative firmware for the H801 LED dimmer that uses MQTT as a control channel. This makes it easy to integrate into Home Assistant and other Home Automation applications.
+The is an alternative firmware for the H801 LED dimmer that uses MQTT as a control channel. This makes it easy to integrate into Home Assistant and other Home Automation applications. In this fork, the RGB channel is replaced by single channels for independant lighting.
 
 ## Channels
 
