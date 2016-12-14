@@ -77,6 +77,10 @@ const char* LIGHT_OFF = "OFF";
 #define W1_PIN  14
 #define W2_PIN  4
 
+// note 
+// TX GPIO2 @Serial1 (Serial ONE)
+// RX GPIO3 @Serial    
+
 #define GREEN_PIN    1
 #define RED_PIN      5
 
